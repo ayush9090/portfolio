@@ -20,47 +20,46 @@ const About = () => {
             <article className="about__card">
               <CgWorkAlt className="about__icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
-            <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>100+ Worlwide</small>
-            </article>
+
             <article className="about__card">
               <BsFolderCheck className="about__icon" />
               <h5>Projects</h5>
               <small>20+ Completed</small>
             </article>
-          </div>
+          </div>{" "}
           <p>
-            I am a highly motivated and skilled professional with 1 year of
-            working experience in .NET development. With a strong foundation in
-            .NET and expertise in JavaScript (including Node.js and React),
-            Python, HTML/CSS, and vanilla JavaScript, I possess a versatile
-            skill set that allows me to develop robust and efficient web
-            applications.
+            With over 3 years of immersive experience in software development,
+            I've meticulously honed my craft in crafting high-impact web
+            applications. My journey spans across dynamic industries within
+            software development firms, where I've meticulously sculpted my
+            skills to optimize performance, elevate user engagement, and
+            streamline project delivery.
           </p>{" "}
           <p>
-            Throughout my career, I have successfully delivered projects by
-            leveraging my solid understanding of software development principles
-            and my ability to adapt to new technologies. I thrive in
-            collaborative environments and excel at problem-solving and
-            troubleshooting complex technical issues.
+            During my tenure at Saviom Software, I orchestrated ExpressJs
+            projects with finesse, shaping the landscape of CRM web application
+            development. My contributions were instrumental in architecting an
+            interactive dashboard adorned with pie charts and bar graphs,
+            amplifying functionality and garnering rave reviews from users.
+            Notably, my leadership in spearheading cross-functional teams led to
+            a remarkable 20% surge in user engagement.
           </p>{" "}
           <p>
-            Passionate about continuous learning, I am committed to staying
-            updated with the latest industry trends and emerging technologies. I
-            have a keen eye for detail, ensuring high-quality code and
-            delivering exceptional user experiences. My goal is to contribute my
-            skills and knowledge to a dynamic organization that values
-            innovation, teamwork, and professional growth.
+            At the Indian Institute of Hardware Technology, I led by example,
+            leveraging cutting-edge technologies like Express.js and React.js to
+            sculpt seamless user experiences. My initiatives didn't just stop at
+            development; I engineered solutions that optimized query efficiency
+            by an impressive 20% and slashed page loading times by half, setting
+            new standards of excellence.
           </p>{" "}
           <p>
-            I am actively seeking new opportunities in the field of software
-            development where I can apply my expertise, expand my skill set, and
-            make a meaningful impact. Let's connect and explore potential
-            collaborations or exciting career prospects
+            Blessed with a versatile skill set spanning JavaScript, Python,
+            React.js, Express.js, and more, I thrive in dynamic environments,
+            catalyzing innovation and fostering collaboration. My agile mindset,
+            coupled with a relentless pursuit of excellence, positions me as a
+            catalyst for transformative change.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's talk

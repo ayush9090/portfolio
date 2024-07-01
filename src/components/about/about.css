@@ -39,6 +39,10 @@
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
+        display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
 }
 .about__card:hover{
     background: transparent;
